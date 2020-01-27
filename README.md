@@ -1,5 +1,9 @@
 
 # E02a-Control-Structures
+
+This project is a breakdown of various controls and the problems occurred when the controls are imperfect.
+
+
 main01: I expect the program to say greetings and ask its favorite color. The program operated exactly as my exprectation.
 
 main02: The difference is that the program will repeat the color I inputed with the line of "color=input()". The program operated exactly as my exprectation.
